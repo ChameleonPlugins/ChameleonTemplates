@@ -1,2 +1,2 @@
-# ChameleonTemplates
+# chameleon-templates
 All Chameleon templates
